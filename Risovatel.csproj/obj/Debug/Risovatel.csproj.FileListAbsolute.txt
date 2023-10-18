@@ -1,0 +1,9 @@
+C:\Users\Админ всея ноутбука\Documents\Risovatel.csproj\bin\Debug\RefactorMe.exe.config
+C:\Users\Админ всея ноутбука\Documents\Risovatel.csproj\bin\Debug\RefactorMe.exe
+C:\Users\Админ всея ноутбука\Documents\Risovatel.csproj\bin\Debug\RefactorMe.pdb
+C:\Users\Админ всея ноутбука\Documents\Risovatel.csproj\bin\Debug\nunit.framework.dll
+C:\Users\Админ всея ноутбука\Documents\Risovatel.csproj\obj\Debug\Risovatel.csproj.AssemblyReference.cache
+C:\Users\Админ всея ноутбука\Documents\Risovatel.csproj\obj\Debug\Risovatel.csproj.CoreCompileInputs.cache
+C:\Users\Админ всея ноутбука\Documents\Risovatel.csproj\obj\Debug\Risovatel.csproj.CopyComplete
+C:\Users\Админ всея ноутбука\Documents\Risovatel.csproj\obj\Debug\RefactorMe.exe
+C:\Users\Админ всея ноутбука\Documents\Risovatel.csproj\obj\Debug\RefactorMe.pdb
